@@ -5,18 +5,21 @@ Full Stack Developer with 20+ years of experience building scalable web applicat
 ## ⚙️ Skills & Technologies
 
 **Cloud & DevOps**
+
 - Azure AI Services & Cognitive Services
 - Azure B2C Authentication
 - Azure DevOps & CI/CD Pipelines
 - Infrastructure as Code
 
 **Frontend Development**
+
 - React & Next.js
 - TypeScript
 - Modern UI/UX Design
 - Responsive Web Applications
 
 **Backend Development**
+
 - Node.js
 - Python
 - RESTful APIs
@@ -32,8 +35,9 @@ Full Stack Developer with 20+ years of experience building scalable web applicat
 ## 🏆 Certifications
 
 - ✅ **Microsoft Azure Fundamentals** (AZ-900)
+- ✅ **Azure Data Fundamentals** (DP-900)
 - ✅ **Azure AI Fundamentals** (AI-900)
-- 🎯 **Azure AI Engineer Associate** (AI-102) - In Progress
+- ✅ **Azure AI Engineer Associate** (AI-102)
 
 ## 🌐 Connect With Me
 
@@ -48,4 +52,4 @@ Full Stack Developer with 20+ years of experience building scalable web applicat
 
 ---
 
-💡 *Always learning, always building.*
+💡 _Always learning, always building._
