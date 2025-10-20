@@ -46,7 +46,7 @@ Full Stack Developer with 20+ years of experience building scalable web applicat
 
 ## 🧠 GitHub Stats
 
-![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulbryan&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulbryan&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github&hide=stars,contribs)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulbryan&layout=compact&theme=transparent&hide_border=true)
 
