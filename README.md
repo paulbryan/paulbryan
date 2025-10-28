@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paul Bryan
 
-Full Stack Developer with 20+ years of experience building scalable web applications and cloud solutions. I specialize in modern web technologies, cloud infrastructure, and AI-powered applications. Passionate about creating elegant solutions to complex problems and staying at the forefront of technology innovation.
+Full Stack Developer with years of experience building scalable web applications and cloud solutions. I specialize in modern web technologies, cloud infrastructure, and AI-powered applications. Passionate about creating elegant solutions to complex problems and staying at the forefront of technology innovation.
 
 ## ⚙️ Skills & Technologies
 
